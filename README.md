@@ -16,14 +16,24 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nekoPhysics&theme=onedark" />
+  <!-- GitHub Readme Streak Stats（テーマはdarkなので背景は自動的に暗くなります） -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nekoPhysics&ring=87cefa&fire=87cefa&currStreakNum=87cefa&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nekoPhysics&count_private=true&theme=onedark&show_icons=true" />
-  <img alt="github details" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekoPhysics&count_private=true&theme=onedark&show_icons=true" />
-  <img alt="github top langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekoPhysics&count_private=true&layout=compact&theme=onedark&show_icons=true" />
-  <img alt="repos per langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nekoPhysics&count_private=true&layout=compact&theme=onedark&show_icons=true" />
-  <img alt="commits per langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nekoPhysics&count_private=true&layout=compact&theme=onedark&show_icons=true" />
-  <img alt="trophies" height="300px" src="https://github-profile-trophy.vercel.app/?username=nekoPhysics&count_private=true&layout=compact&theme=onedark&show_icons=true" />
+  <!-- GitHub Readme Stats -->
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nekoPhysics&count_private=true&show_icons=true&bg_color=000000&title_color=87cefa&text_color=ffffff&icon_color=87cefa" />
+  
+  <!-- GitHub Profile Summary Card（Profile Details） -->
+  <img alt="github details" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekoPhysics&count_private=true&bg_color=000000&title_color=87cefa&text_color=ffffff&icon_color=87cefa" />
+  
+  <!-- GitHub Top Languages -->
+  <img alt="github top langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekoPhysics&count_private=true&layout=compact&bg_color=000000&title_color=87cefa&text_color=ffffff&icon_color=87cefa" />
+  
+  <!-- Repositories per Language -->
+  <img alt="repos per langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nekoPhysics&count_private=true&layout=compact&bg_color=000000&title_color=87cefa&text_color=ffffff&icon_color=87cefa" />
+  
+  
+  <!-- GitHub Profile Trophy -->
+  <img alt="trophies" height="300px" src="https://github-profile-trophy.vercel.app/?username=nekoPhysics&count_private=true&layout=compact&bg_color=000000&title_color=87cefa&text_color=ffffff&icon_color=87cefa" />
 </p>
